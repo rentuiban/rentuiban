@@ -1,16 +1,74 @@
-## Hi there 👋
+# 任推邦官网 - 专业网盘推广联盟平台
 
-<!--
-**rentuiban/rentuiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于任推邦
 
-Here are some ideas to get you started:
+🔖任推邦官网：[https://rentuibang.app/](https://rentuibang.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏬下载任推邦app：[https://rentuibang.app/download](https://rentuibang.app/download)
+
+**任推邦**是一款专注于推广任务分发与佣金结算的创新型服务平台，致力于为个人推广者与企业商家搭建高效对接桥梁。通过整合多元化任务资源与智能化管理工具，任推邦已成为推广领域的重要枢纽，帮助用户轻松实现推广变现。
+
+![任推邦官网宣传图](https://images.rentuibang.app/dashboard-preview.webp)
+## 任推邦官网核心功能
+
+**任推邦官网**作为平台服务的主要入口，提供以下核心功能：
+
+### 1. 任务广场
+汇聚来自电商、教育、金融等多领域的推广任务，支持按佣金比例、难度等级、行业分类筛选，满足不同推广者需求。
+
+### 2. 数据中心
+实时展示推广数据、佣金统计、用户画像分析，帮助推广者优化策略，提升转化效率。
+
+### 3. 合作入驻
+企业商家可通过官网申请入驻，发布定制化推广任务，精准触达目标用户群体。
+
+### 4. 帮助中心
+提供详细的平台使用指南、常见问题解答及客服支持，确保用户快速上手。
+
+## 任推邦APP使用指南
+
+**任推邦APP**是移动端推广管理利器，支持iOS与Android系统，主要功能包括：
+
+### 下载与安装
+- 官网扫码下载：访问[任推邦官网](https://rentuibang.app/)首页获取下载链接
+- 应用商店搜索：在App Store或各大安卓市场搜索"任推邦"
+
+![任推邦app](https://images.rentuibang.app/%E4%BB%BB%E6%8E%A8%E9%82%A6app%E4%B8%8B%E8%BD%BD.png)
+
+### 核心功能
+- **任务接取**：随时随地浏览并承接推广任务，一键生成推广素材
+- **佣金管理**：实时查看收益明细，支持多种提现方式，到账迅速
+- **素材库**：提供文案、图片、视频等多样化推广素材，一键转发分享
+- **消息通知**：任务更新、佣金到账、活动提醒及时触达
+
+## 平台优势
+
+### 1. 资源丰富
+对接数百家知名企业，每日更新海量推广任务，涵盖主流行业与细分领域。
+
+### 2. 技术驱动
+采用AI智能匹配算法，精准推荐适合推广者的任务，提升接单效率与收益。
+
+### 3. 安全可靠
+严格审核商家资质，保障推广者权益；佣金结算透明，无拖欠风险。
+
+### 4. 低门槛入门
+无需专业背景，新手可快速上手，平台提供免费培训课程与推广技巧分享。
+
+## 开始使用任推邦
+
+1. 访问**任推邦官网**([https://rentuibang.app/](https://rentuibang.app/))或下载**任推邦APP**
+2. 完成注册并实名认证
+3. 浏览任务广场，选择适合的推广任务
+4. 获取推广素材，分享至社交平台或指定渠道
+5. 跟踪数据统计，提现收益
+
+## 联系我们
+
+- 官方网站：[https://rentuibang.app/](https://rentuibang.app/)
+- 客服邮箱：support@rentuibang.app
+- 工作时间：周一至周五 9:00-18:00
+
+加入**任推邦**，开启你的推广变现之旅，轻松实现副业增收！
+
+[任推邦官网]: https://rentuibang.app/
